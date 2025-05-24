@@ -1,0 +1,2 @@
+# enunciados_exercicios_sql_pbi
+Enunciados exercicios para mentorados
